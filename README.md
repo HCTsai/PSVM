@@ -12,8 +12,8 @@ will increase the calculation speed.
 
 Example in SVMTrainingSample
 ---
-class Program
-    {
+
+
         static void Main(string[] args)
         {
 
@@ -85,6 +85,6 @@ class Program
             Console.Read();
         
         }
-    }
+  
 
 ---
