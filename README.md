@@ -1,12 +1,11 @@
-PSVM 
-(SVM.NET with Parallel Optimization)
+SVM.NET with Parallel Optimization
 ====
 
 This SVM Library is based on the source code from:
 http://www.matthewajohnson.org/software/svm.html 
 
 Improvement:
-
+ 
 When finding parameters, C and Gamma, in Grid-search algorithm 
 using ParameterSelection.PGrid instead of the original ParameterSelection.Grid 
 will increase the calculation speed.
